@@ -1,0 +1,27 @@
+{
+  "name": "cypress-cloud-demo1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SriMugundhan95/cypress-cloud-demo1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/SriMugundhan95/cypress-cloud-demo1/issues"
+  },
+  "homepage": "https://github.com/SriMugundhan95/cypress-cloud-demo1#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "cypress": "^15.7.0"
+  }
+}
